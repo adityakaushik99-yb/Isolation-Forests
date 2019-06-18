@@ -4,4 +4,4 @@ Isolation Forests are being used as outlier detection mechanism in the following
 
 ![GitHub Logo](/dataset_generated.png)
 
-Given Dataset
+Format: ![Given Dataset]
